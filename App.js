@@ -7,6 +7,7 @@ import Video from 'react-native-video';
 import MediaControls, { PLAYER_STATES } from 'react-native-media-controls';
 //Media Controls to control Play/Pause/Seek and full screen
 import YouTube from 'react-native-youtube';
+import firebase from 'react-native-firebase';
 class App extends Component {
   videoPlayer;
  

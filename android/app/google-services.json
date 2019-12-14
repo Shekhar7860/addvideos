@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "755509361658",
+    "firebase_url": "https://ffdfdffdfd-18de8.firebaseio.com",
+    "project_id": "ffdfdffdfd-18de8",
+    "storage_bucket": "ffdfdffdfd-18de8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755509361658:android:3394b2478718bca4c50243",
+        "android_client_info": {
+          "package_name": "com.corouseltest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755509361658-1jiedsndspknvkdgqvoepo02p9b556ep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwFbMssNeYgyJ7sxSRtwM6ro6J_kPAxcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755509361658-1jiedsndspknvkdgqvoepo02p9b556ep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
